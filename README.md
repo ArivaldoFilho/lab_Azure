@@ -23,7 +23,7 @@ Neste laboratório, implementei uma arquitetura na Azure para realizar o process
 
    - Desenvolvimento de pipelines para coordenar o processo ETL.
 
-   ![Data Factory Pipeline](https://drive.google.com/uc?id=1FL4StCkKoZwTMPFMMJD37e4nRUi1GYnn)
+   ![Data Factory Pipeline](https://drive.google.com/uc?id=1BliSg1jFoWzivo5C3rkhioycE8-JLdDi)
 
 ## Resultados
 
